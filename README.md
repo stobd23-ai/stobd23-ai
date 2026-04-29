@@ -1,6 +1,8 @@
 ## About Me ##
 
-First year Robotics student with a strong interest in game developing, online trading, and trying new things. I am an artist, an academic, and an instrumentalist. I am also passionate about mentoring and teaching other people. 
+First year Robotics student with a strong interest in game developing, online trading, and trying new things. 
+I am an artist, an academic, and an instrumentalist. 
+I am also passionate about mentoring and teaching other people. 
 
 
 Recent Projects I have worked on:
