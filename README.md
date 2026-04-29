@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me ##
+jJFIE
+
 
 <!--
 **stobd23-ai/stobd23-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
