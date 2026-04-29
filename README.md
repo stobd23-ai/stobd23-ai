@@ -5,7 +5,7 @@ I am an artist, an academic, and an instrumentalist
 
 Recent Projects I have worked on:
 
-  Game Devolopment in a Medieval Setting
+  Game Devolopment in a Medieval Setting//
   Research Project on Injection Molding Effiency
   Designing a Multi-Agent Decision Assistant for BMW
 
