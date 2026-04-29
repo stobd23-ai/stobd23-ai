@@ -1,6 +1,6 @@
 ## About Me ##
 
-I am an artist, an academic, and an instrumentalist
+I am an artist, an academic, and an instrumentalist. 
 
 
 Recent Projects I have worked on:
