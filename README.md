@@ -1,13 +1,12 @@
 ## About Me ##
 
-I am an artist, an academic, and an instrumentalist. 
+First year Robotics student with a strong interest in game developing, online trading, and trying new things. I am an artist, an academic, and an instrumentalist. I am also passionate about mentoring and teaching other people. 
 
 
 Recent Projects I have worked on:
-
-  Game Devolopment in a Medieval Setting//
-  Research Project on Injection Molding Effiency
-  Designing a Multi-Agent Decision Assistant for BMW
+- Game Devolopment in a Medieval Setting
+- Research Project on Injection Molding Effiency
+- Designing a Multi-Agent Decision Assistant for BMW
 
 
 <!--
